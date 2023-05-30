@@ -1,0 +1,5 @@
+tipo_de_cama;precio_x_cama;gente_x_cama;tipo_de_habitación;precio_x_habitacion
+king;120;4;estándar;300
+queen;100;3;suite;450
+individuales;60;1;suite_doble;625
+doble;90;2;-;-

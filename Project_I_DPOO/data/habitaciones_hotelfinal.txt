@@ -1,0 +1,123 @@
+﻿ numero-de-habitacion;tipo-de-habitacion;num_de_camas;tipo_de_camas;balcon;cocina;vista;ignorar_columna
+21;estándar;4;king;si;no;si;0.768633968
+14;suite;1;queen;no;no;si;0.843948991
+114;suite doble;1;individuales;no;si;si;0.080392147
+102;estándar;4;doble;si;no;si;0.192483202
+59;suite;2;king;si;no;no;0.51222176
+16;suite doble;3;queen;no;no;si;0.794547014
+3;estándar;2;individuales;no;si;si;0.962873865
+111;suite;1;doble;si;no;si;0.09089777
+82;suite doble;3;king;si;no;si;0.317487815
+92;estándar;4;queen;no;no;si;0.221165554
+103;suite;2;individuales;no;si;si;0.18117457
+23;suite doble;4;doble;si;no;si;0.762623367
+37;estándar;1;king;si;no;no;0.629409822
+5;suite;2;queen;no;no;si;0.94814578
+112;suite doble;2;individuales;no;si;si;0.085701956
+45;estándar;1;doble;si;no;si;0.567945561
+94;suite;4;king;si;no;si;0.218193534
+33;suite doble;4;queen;no;no;si;0.700982345
+115;estándar;4;individuales;no;si;si;0.07725865
+73;suite;2;doble;si;no;si;0.390706483
+60;suite doble;4;king;si;no;no;0.507942277
+120;estándar;3;queen;no;no;si;0.017467042
+25;suite;2;individuales;no;si;si;0.74819815
+88;suite doble;2;doble;si;no;si;0.243083221
+89;estándar;3;king;si;no;si;0.23773192
+20;suite;2;queen;no;no;si;0.77565191
+74;suite doble;3;individuales;no;si;si;0.385370872
+22;estándar;2;doble;si;no;si;0.767754396
+28;suite;4;king;si;no;no;0.730687333
+106;suite doble;3;queen;no;no;si;0.120589367
+72;estándar;4;individuales;no;si;si;0.407118002
+66;suite;3;doble;si;no;si;0.45863702
+108;suite doble;3;king;si;no;si;0.105903295
+104;estándar;4;queen;no;no;si;0.179580422
+42;suite;3;individuales;no;si;si;0.587258674
+61;suite doble;2;doble;si;no;si;0.505808764
+76;estándar;3;king;si;no;no;0.348837913
+117;suite;4;queen;no;no;si;0.042783155
+26;suite doble;2;individuales;no;si;si;0.741027955
+110;estándar;2;doble;si;no;si;0.099660388
+86;suite;2;king;si;no;si;0.254935907
+62;suite doble;4;queen;no;no;si;0.503770317
+109;estándar;3;individuales;no;si;si;0.100597773
+29;suite;4;doble;si;no;si;0.729780869
+13;suite doble;4;king;si;no;no;0.854254564
+12;estándar;3;queen;no;no;si;0.856486652
+1;suite;3;individuales;no;si;si;0.977507076
+64;suite doble;2;doble;si;no;si;0.494721607
+51;estándar;2;king;si;no;si;0.537664482
+83;suite;3;queen;no;no;si;0.298436107
+17;suite doble;1;individuales;no;si;si;0.791954064
+96;estándar;2;doble;si;no;si;0.204070852
+8;suite;2;king;si;no;no;0.890625617
+27;suite doble;1;queen;no;no;si;0.740729319
+75;estándar;2;individuales;no;si;si;0.354093653
+39;suite;3;doble;si;no;si;0.600789622
+81;suite doble;3;king;si;no;si;0.321772024
+99;estándar;4;queen;no;no;si;0.199424956
+57;suite;1;individuales;no;si;si;0.521369212
+55;suite doble;3;doble;si;no;si;0.528488998
+31;estándar;1;king;si;no;no;0.706789039
+70;suite;3;queen;no;no;si;0.426035467
+38;suite doble;4;individuales;no;si;si;0.61671228
+54;estándar;3;doble;si;no;si;0.529952562
+67;suite;3;king;si;no;si;0.451673989
+4;suite doble;1;queen;no;no;si;0.96214982
+100;estándar;2;individuales;no;si;si;0.197834925
+93;suite;3;doble;si;no;si;0.219743173
+65;suite doble;2;king;si;no;no;0.478592195
+40;estándar;4;queen;no;no;si;0.592252122
+6;suite;4;individuales;no;si;si;0.945541285
+101;suite doble;1;doble;si;no;si;0.195130999
+116;estándar;1;king;si;no;si;0.049032655
+95;suite;2;queen;no;no;si;0.213615551
+49;suite doble;3;individuales;no;si;si;0.539508934
+47;estándar;3;doble;si;no;si;0.551715485
+91;suite;2;king;si;no;no;0.232762792
+98;suite doble;4;queen;no;no;si;0.200242222
+24;estándar;1;individuales;no;si;si;0.749572138
+10;suite;4;doble;si;no;si;0.859463635
+53;suite doble;4;king;si;no;si;0.532356291
+118;estándar;2;queen;no;no;si;0.034871874
+43;suite;4;individuales;no;si;si;0.5756007
+52;suite doble;2;doble;si;no;si;0.536722332
+107;estándar;2;king;si;no;no;0.112393135
+90;suite;4;queen;no;no;si;0.23713334
+58;suite doble;2;individuales;no;si;si;0.520691131
+105;estándar;4;doble;si;no;si;0.179539297
+79;suite;2;king;si;no;si;0.32359992
+41;suite doble;1;queen;no;no;si;0.589402076
+78;estándar;2;individuales;no;si;si;0.323698637
+119;suite;3;doble;si;no;si;0.025308296
+18;suite doble;1;king;si;no;no;0.788874105
+44;estándar;3;queen;no;no;si;0.573836865
+84;suite;2;individuales;no;si;si;0.296349511
+9;suite doble;1;doble;si;no;si;0.886234346
+7;estándar;1;king;si;no;si;0.94081705
+48;suite;4;queen;no;no;si;0.546262919
+50;suite doble;1;individuales;no;si;si;0.539132003
+15;estándar;2;doble;si;no;si;0.816858062
+36;suite;3;king;si;no;no;0.633078322
+80;suite doble;2;queen;no;no;si;0.322773186
+34;estándar;2;individuales;no;si;si;0.695491055
+97;suite;1;doble;si;no;si;0.203873564
+121;suite doble;1;king;si;no;si;0.000608328
+56;estándar;4;queen;no;no;si;0.528267784
+19;suite;3;individuales;no;si;si;0.778178978
+46;suite doble;2;doble;si;no;si;0.552951248
+11;estándar;4;king;si;no;no;0.857693911
+68;suite;3;queen;no;no;si;0.436752903
+77;suite doble;1;individuales;no;si;si;0.333982537
+113;estándar;2;doble;si;no;si;0.085284493
+2;suite;4;king;si;no;si;0.971587324
+30;suite doble;2;queen;no;no;si;0.72194921
+35;estándar;2;individuales;no;si;si;0.672821124
+63;suite;1;doble;si;no;si;0.497774019
+85;suite doble;1;king;si;no;no;0.268570035
+71;estándar;1;queen;no;no;si;0.419471282
+87;suite;4;individuales;no;si;si;0.249784271
+32;suite doble;4;doble;si;no;si;0.704440646
+69;estándar;2;king;si;no;si;0.436565842
+151;suite;2;queen;si;si;si
